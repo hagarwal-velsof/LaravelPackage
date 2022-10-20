@@ -1,0 +1,12 @@
+{
+    "name": "spinwheel/spinwheel",
+    "description": "Test Package Deveopment",
+    "type": "composer-plugin",
+    "autoload": {
+        "psr-4": {
+            "Spinwheel\\Spinwheel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
