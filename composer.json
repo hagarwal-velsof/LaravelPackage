@@ -1,6 +1,6 @@
 {
     "name": "spinwheel/spinwheel",
-    "description": "Test Package Deveopment",
+    "description": "Test Package Development",
     "type": "library",
     "autoload": {
         "psr-4": {

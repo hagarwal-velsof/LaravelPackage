@@ -1,6 +1,6 @@
 <?php
    
-    namespace SpinWheel\SpinWheel;
+    namespace Spinwheel\Spinwheel;
     use Illuminate\Support\ServiceProvider;
     class SpinWheelServiceProvider extends ServiceProvider {
         public function boot()
