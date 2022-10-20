@@ -1,7 +1,7 @@
 {
     "name": "spinwheel/spinwheel",
     "description": "Test Package Deveopment",
-    "type": "composer-plugin",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Spinwheel\\Spinwheel\\": "src/"
